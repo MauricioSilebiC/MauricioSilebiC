@@ -244,7 +244,7 @@ eco_market/
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioSilebiC&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioSilebiC.MauricioSilebiC&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioSilebiC&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
